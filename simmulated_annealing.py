@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov  9 19:22:55 2021
-
-@author: Francis Allanah
-"""
-
 import random
 import math
 import copy
@@ -96,6 +89,21 @@ def annealing(initial_state, max_iterations, min_temp, initial_temp, alpha, prin
 
     return solution, get_cost(solution), current_temp, accept_count, reject_count
 
+def swap(state):
+    # Perturbation function
+    index_one = -1
+    index_two = -1
+
+    while index_one == index_two:
+        index_one = random.randint(1, len(state) - 1)
+        index_two = random.randint(1, len(state) - 1)
+
+    city_one = state[index_one]
+    state[index_one] = state[index_two]
+    state[index_two] = city_one
+
+    return state
+
 def get_cost(state):
     # Calculates cost of a solution
     distance = 0
@@ -115,21 +123,6 @@ def get_neighbors(state):
     neighbor = copy.deepcopy(state)
     newState = swap(neighbor)
     return newState
-
-def swap(state):
-    # Perturbation function
-    index_one = -1
-    index_two = -1
-
-    while index_one == index_two:
-        index_one = random.randint(1, len(state) - 1)
-        index_two = random.randint(1, len(state) - 1)
-
-    city_one = state[index_one]
-    state[index_one] = state[index_two]
-    state[index_two] = city_one
-
-    return state
 
 temp = 3
 is_warm_enough = False
