@@ -1,0 +1,1673 @@
+Temperature:
+6
+Acceptance ratio:
+0.04
+Temperature:
+12
+Acceptance ratio:
+0.04
+Temperature:
+24
+Acceptance ratio:
+0.04
+Temperature:
+48
+Acceptance ratio:
+0.04
+Temperature:
+96
+Acceptance ratio:
+0.04
+Temperature:
+192
+Acceptance ratio:
+0.04
+Temperature:
+384
+Acceptance ratio:
+0.24
+Temperature:
+768
+Acceptance ratio:
+0.48
+Temperature:
+1536
+Acceptance ratio:
+0.48
+
+
+Final Temperature:
+1536
+Final Acceptance ratio:
+0.84
+
+
+Using intital temperature:  1536
+INITIAL
+['Berlin', 'Dortmund', 'München', 'Hamburg', 'Leipzig'] 1958
+
+
+Iteration: 1
+Worse solution accepted:
+['Berlin', 'Dortmund', 'Leipzig', 'Hamburg', 'München'] 2176
+
+
+Iteration: 2
+Better solution accepted:
+['Berlin', 'Dortmund', 'Hamburg', 'Leipzig', 'München'] 1867
+
+
+Iteration: 3
+Better solution accepted:
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 4
+Worse solution accepted:
+['Berlin', 'Hamburg', 'München', 'Leipzig', 'Dortmund'] 1991
+
+
+Iteration: 5
+Better solution accepted:
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 6
+Worse solution accepted:
+['Berlin', 'Dortmund', 'Leipzig', 'München', 'Hamburg'] 1991
+
+
+Iteration: 7
+Better solution accepted:
+['Berlin', 'Hamburg', 'Leipzig', 'München', 'Dortmund'] 1811
+
+
+Iteration: 8
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Hamburg', 'Dortmund'] 1867
+
+
+Iteration: 9
+Worse solution accepted:
+['Berlin', 'Hamburg', 'München', 'Leipzig', 'Dortmund'] 1991
+
+
+Iteration: 10
+Better solution accepted:
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 11
+Worse solution accepted:
+['Berlin', 'Hamburg', 'München', 'Leipzig', 'Dortmund'] 1991
+
+
+Iteration: 12
+Worse solution accepted:
+['Berlin', 'München', 'Hamburg', 'Leipzig', 'Dortmund'] 2176
+
+
+Iteration: 13
+Better solution accepted:
+['Berlin', 'Hamburg', 'München', 'Leipzig', 'Dortmund'] 1991
+
+
+Iteration: 14
+Better solution accepted:
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 15
+Worse solution accepted:
+['Berlin', 'Leipzig', 'Hamburg', 'München', 'Dortmund'] 1958
+
+
+Iteration: 16
+Better solution accepted:
+['Berlin', 'Dortmund', 'Hamburg', 'München', 'Leipzig'] 1829
+
+
+Iteration: 17
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Hamburg', 'Leipzig'] 1958
+
+
+Iteration: 18
+Worse solution accepted:
+['Berlin', 'München', 'Hamburg', 'Dortmund', 'Leipzig'] 1892
+
+
+Iteration: 19
+Better solution accepted:
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 20
+Better solution accepted:
+['Berlin', 'Leipzig', 'München', 'Dortmund', 'Hamburg'] 1527
+
+
+Iteration: 21
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 22
+Worse solution accepted:
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 23
+Better solution accepted:
+['Berlin', 'Leipzig', 'München', 'Dortmund', 'Hamburg'] 1527
+
+
+Iteration: 24
+Worse solution accepted:
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 25
+Worse solution accepted:
+['Berlin', 'Hamburg', 'Leipzig', 'Dortmund', 'München'] 1874
+
+
+Iteration: 26
+Better solution accepted:
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 27
+Worse solution accepted:
+['Berlin', 'Hamburg', 'Leipzig', 'Dortmund', 'München'] 1874
+
+
+Iteration: 28
+Better solution accepted:
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 29
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Hamburg', 'Leipzig'] 1958
+
+
+Iteration: 30
+Better solution accepted:
+['Berlin', 'Leipzig', 'München', 'Dortmund', 'Hamburg'] 1527
+
+
+Iteration: 31
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 32
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 33
+Worse solution accepted:
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 34
+Worse solution rejected
+['Berlin', 'München', 'Hamburg', 'Dortmund', 'Leipzig'] 1892
+
+
+Iteration: 35
+Worse solution rejected
+['Berlin', 'München', 'Hamburg', 'Dortmund', 'Leipzig'] 1892
+
+
+Iteration: 36
+Worse solution accepted:
+['Berlin', 'Hamburg', 'Leipzig', 'Dortmund', 'München'] 1874
+
+
+Iteration: 37
+Better solution accepted:
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 38
+Worse solution rejected
+['Berlin', 'München', 'Dortmund', 'Leipzig', 'Hamburg'] 1874
+
+
+Iteration: 39
+Worse solution accepted:
+['Berlin', 'Hamburg', 'Leipzig', 'Dortmund', 'München'] 1874
+
+
+Iteration: 40
+Worse solution rejected
+['Berlin', 'Dortmund', 'Leipzig', 'Hamburg', 'München'] 2176
+
+
+Iteration: 41
+Better solution accepted:
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 42
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'Hamburg', 'München'] 1892
+
+
+Iteration: 43
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'München', 'Dortmund'] 1958
+
+
+Iteration: 44
+Worse solution accepted:
+['Berlin', 'Dortmund', 'Hamburg', 'Leipzig', 'München'] 1867
+
+
+Iteration: 45
+Worse solution rejected
+['Berlin', 'Dortmund', 'Leipzig', 'Hamburg', 'München'] 2176
+
+
+Iteration: 46
+Better solution accepted:
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 47
+Worse solution accepted:
+['Berlin', 'Dortmund', 'Hamburg', 'Leipzig', 'München'] 1867
+
+
+Iteration: 48
+Worse solution rejected
+['Berlin', 'Dortmund', 'Leipzig', 'Hamburg', 'München'] 2176
+
+
+Iteration: 49
+Better solution accepted:
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 50
+Better solution accepted:
+['Berlin', 'Leipzig', 'München', 'Dortmund', 'Hamburg'] 1527
+
+
+Iteration: 51
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 52
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 53
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 54
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 55
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 56
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 57
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 58
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 59
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 60
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 61
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 62
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 63
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 64
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 65
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 66
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 67
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 68
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 69
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 70
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 71
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 72
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 73
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 74
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 75
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 76
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 77
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 78
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 79
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 80
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 81
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 82
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 83
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 84
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 85
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 86
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 87
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 88
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 89
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 90
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 91
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 92
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 93
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 94
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 95
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 96
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 97
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 98
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 99
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 100
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 101
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 102
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 103
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 104
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 105
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 106
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 107
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 108
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 109
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 110
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 111
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 112
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 113
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 114
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 115
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 116
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 117
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 118
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 119
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 120
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 121
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 122
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 123
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 124
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 125
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 126
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 127
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 128
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 129
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 130
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 131
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 132
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 133
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 134
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 135
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 136
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 137
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 138
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 139
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 140
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 141
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 142
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 143
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 144
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 145
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 146
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 147
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 148
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 149
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 150
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 151
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 152
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 153
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 154
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 155
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 156
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 157
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 158
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 159
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 160
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 161
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 162
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 163
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 164
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 165
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 166
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 167
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 168
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 169
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 170
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 171
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 172
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 173
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 174
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 175
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 176
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 177
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 178
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 179
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 180
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 181
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 182
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 183
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 184
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 185
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 186
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 187
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 188
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 189
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 190
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 191
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 192
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 193
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 194
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 195
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 196
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 197
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 198
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 199
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 200
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 201
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 202
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 203
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 204
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 205
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 206
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 207
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 208
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 209
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 210
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 211
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 212
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 213
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 214
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 215
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 216
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 217
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 218
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 219
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 220
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 221
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 222
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 223
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 224
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 225
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 226
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 227
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 228
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 229
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 230
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 231
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 232
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 233
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 234
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 235
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 236
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 237
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 238
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 239
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 240
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 241
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 242
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 243
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 244
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 245
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 246
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 247
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 248
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 249
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 250
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 251
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 252
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 253
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 254
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 255
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 256
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 257
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 258
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 259
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 260
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 261
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 262
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 263
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 264
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 265
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 266
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 267
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 268
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 269
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 270
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 271
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 272
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 273
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 274
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 275
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 276
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 277
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 278
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 279
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 280
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 281
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 282
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 283
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 284
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 285
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 286
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 287
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 288
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 289
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 290
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 291
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 292
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 293
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 294
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 295
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 296
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 297
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 298
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 299
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 300
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 301
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 302
+Worse solution rejected
+['Berlin', 'München', 'Leipzig', 'Dortmund', 'Hamburg'] 1745
+
+
+Iteration: 303
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 304
+Worse solution rejected
+['Berlin', 'Hamburg', 'München', 'Dortmund', 'Leipzig'] 1836
+
+
+Iteration: 305
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 306
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 307
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 308
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 309
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 310
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 311
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 312
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 313
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 314
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 315
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 316
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 317
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 318
+Worse solution rejected
+['Berlin', 'Leipzig', 'Hamburg', 'Dortmund', 'München'] 1712
+
+
+Iteration: 319
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 320
+Worse solution rejected
+['Berlin', 'Leipzig', 'München', 'Hamburg', 'Dortmund'] 1829
+
+
+Iteration: 321
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+
+Iteration: 322
+Worse solution rejected
+['Berlin', 'Dortmund', 'München', 'Leipzig', 'Hamburg'] 1811
+
+
+Iteration: 323
+Worse solution rejected
+['Berlin', 'Leipzig', 'Dortmund', 'München', 'Hamburg'] 1836
+
+RESULT
+['Berlin', 'Leipzig', 'München', 'Dortmund', 'Hamburg']
+1527
+
+Remaining Temperature
+9.797510193396391e-05
+Solutions accepted:
+36
+Solutions rejected:
+287
